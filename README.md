@@ -22,10 +22,9 @@ This tool takes a GitHub repository URL or a Zip file as input, analyzes every l
 
 ## 🚀 Live Demo
 
-**[Click here to view the Live App on Hugging Face Spaces]** <br>
-https://huggingface.co/spaces/AlenKAJi25/code-documenter
+**[Click here to view the Live App on Hugging Face Spaces](https://huggingface.co/spaces/AlenKAJi25/code-documenter)**
 
----
+
 
 ## 🛠️ Installation & Local Usage
 
@@ -79,7 +78,7 @@ Code-Documenter
       ├── app.py                 # Main application logic & Gradio UI
       ├── requirements.txt       # Python dependencies
       ├── README.md              # Project documentation
-      └── working_dir/           # Temporary storage for processing files (auto-generated)
+    
 ```
 ---
 
